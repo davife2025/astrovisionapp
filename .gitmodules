@@ -1,0 +1,6 @@
+[submodule "astrovisionbackend"]
+	path = astrovisionbackend
+	url = https://github.com/davife2025/astrovisionbackend.git
+[submodule "astrovisionfrontend"]
+	path = astrovisionfrontend
+	url = https://github.com/davife2025/astrovisionfrontend.git
