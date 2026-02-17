@@ -1,0 +1,103 @@
+{
+  "projectName": "Astro Vision",
+  "network": "BSC Mainnet",
+  "contracts": [
+    {
+      "name": "awardReputation (0x96549436)",
+      "address": "0x123...",
+      "explorerLink": "https://bscscan.com/address/0xeC7b732E8F8e2D19D244f2C6cCE35127C824358c#writeContract#F1",
+      "description": ""
+    },
+    {
+      "name": "cancelProposal ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },  {
+      "name": "createProposal (0x623bd3c4) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "delegate (0x5c19a95c)",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "emergencyWithdraw (0xdb2e21bc) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "executeProposal (0x0d61b519) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "finalizeProposal (0x5652077c) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "incrementWeek (0x2813fe39)",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "pause (0x8456cb59)",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "renounceOwnership (0x715018a6) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+      {
+      "name": "setVerifiedResearcher (0x70e2ee1c) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+     {
+      "name": "transferOwnership (0xf2fde38b) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://testnet.bscscan.com/address/...",
+      "description": ""
+    },
+     {
+      "name": "undelegate (0x92ab89bb) ",
+      "address": "",
+      "explorerLink": "",
+      "description": ""
+    },
+     {
+      "name": "unpause",
+      "explorerLink": "",
+      "description": ""
+    },
+     {
+      "name": "updateGovernanceParams (0x4019bb51) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://bscscan.com/address/0xeC7b732E8F8e2D19D244f2C6cCE35127C824358c",
+      "description": ""
+    },
+       {
+      "name": "vote (0x943e8216) ",
+      "address": "(0xe0a8f6f5)",
+      "explorerLink": "https://bscscan.com/address/0xeC7b732E8F8e2D19D244f2C6cCE35127C824358c",
+      "description": ""
+    }
+  ],
+  "frontendUrl": "https://astro-vision-app.vercel.app",
+  "backendApi": "https://astrovisionbackend.onrender.com",
+  "notes": "Any special instructions for interacting with the contracts."
+}
