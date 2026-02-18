@@ -6,7 +6,7 @@
     "name": "AstroDAO",
     "address": "0xeC7b732E8F8e2D19D244f2C6cCE35127C824358c",
     "explorerLink": "https://testnet.bscscan.com/address/0xeC7b732E8F8e2D19D244f2C6cCE35127C824358c",
-    "description": "Governance DAO contract for managing proposals, voting, reputation, weekly themes, and research discoveries on opBNB"
+    "description": "Governance DAO contract for managing proposals, voting, reputation, weekly themes, and research discoveries on BNB"
   }
 ]
   ],
