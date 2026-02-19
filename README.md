@@ -251,10 +251,9 @@ astrovision/
 │           └── AstroDAOSecure.sol                 # Solidity smart contract
 │
 ├── docs/
-│   ├── AstroDAO-Analysis.md               # Contract coverage analysis
-│   ├── AstroVision-Pitch.docx             # Hackathon pitch deck
-│   └── README.md                          # This file
-│
+│   ├── PROJECT.md              # problem, solution ...
+│   ├── TECHNICAL.md             # Achietechture ,...
+│                         
 └── README.md
 ```
 
