@@ -373,15 +373,6 @@ We're building infrastructure for the next generation of space explorers. When a
 
 ---
 
-## 📞 Get Involved
-
-### For Institutions
-- 🎓 **Partnership inquiries**: partnerships@astrovision.io
-- 📊 **API access**: enterprise@astrovision.io
-- 💰 **Grant applications**: grants@astrovision.io
-
----
-
 **Built with ❤️ for everyone who's ever looked up at the stars and wondered what's out there.**
 
 *AstroVision — where curiosity meets community, and science becomes everyone's mission.*
