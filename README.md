@@ -659,12 +659,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/astrovision&type=Date)](https://star-history.com/#yourusername/astrovision&Date)
-
----
-
 **Built with ❤️ by the AstroVision team during BNB Chain Hackathon 2026**
 
 *The universe is too big to explore alone. Join us in building the future of decentralized science.*
