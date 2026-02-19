@@ -654,10 +654,9 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📧 Contact
 
-- **GitHub**: [github.com/yourusername/astrovision](https://github.com/yourusername/astrovision)
-- **Twitter**: [@astrovision](https://twitter.com/astrovision)
-- **Discord**: [Join our server](https://discord.gg/astrovision)
-- **Email**: team@astrovision.io
+- **GitHub**: [github.com/yourusername/astrovision](https://github.com/davife2025/astrovisionapp)
+- **Twitter**: [@astrovision](https://twitter.com/astrovisionx)
+
 
 ---
 
