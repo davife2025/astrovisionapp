@@ -61,7 +61,7 @@ This document provides a deep technical dive into AstroVision's architecture, im
 │  └─────┬──────┘ │                              │ └──────────────┘ │
 │        │        │                              │                  │
 │  ┌─────▼──────┐ │                              │   BNB Chain      │
-│  │   Routes   │ │                              │   (Testnet)      │
+│  │   Routes   │ │                              │   (Mainnet)      │
 │  ├────────────┤ │                              └──────────────────┘
 │  │ AI Service │ │
 │  │ Astrometry │ │
@@ -1384,16 +1384,6 @@ Smart Contract:
 event Debug(string message, uint256 value);
 emit Debug("Vote count", proposal.votesFor);
 ```
-
----
-
-## 📞 Support
-
-### Resources
-- **Documentation**: [docs.astrovision.app](https://docs.astrovision.app)
-- **GitHub**: [github.com/astrovision](https://github.com/astrovision)
-- **Discord**: [discord.gg/astrovision](https://discord.gg/astrovision)
-
 ### Reporting Bugs
 ```markdown
 **Bug Report Template:**
