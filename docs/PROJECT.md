@@ -4,7 +4,7 @@
 
 **Built for**: BNB Chain Hackathon 2026  
 **Status**: Production-deployed full-stack application  
-**Live Demo**: [https://astrovision.app](https://astro-vision-app.vercel.app)  
+**Live Demo**: [https://astrovision](https://astro-vision-one.vercel.app)  
 **Contract**: BNB Chain (Testnet)
 
 ---
